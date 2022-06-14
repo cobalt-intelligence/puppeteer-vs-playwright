@@ -11,6 +11,7 @@ Puppeteer is older and seems to have more libraries, such as puppeteer-stealth, 
 So Puppeteer is probably my recommendation because it is older and has more community support but otherwise they seem exactly the same.
 
 Cobalt Intelligence
+
 | Headless Browser | Speed |
 | --- | --- | --- |
 | Puppeteer | 2.9249 ❌ |
@@ -18,6 +19,7 @@ Cobalt Intelligence
 
 
 Zillow
+
 | Headless Browser | Speed |
 | --- | --- | --- |
 | Puppeteer | 4.186 ✅ |
