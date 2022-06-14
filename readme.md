@@ -1,6 +1,6 @@
 # Puppeteer vs Playwright for Web Scraping in 2022
 
-A simple comparison of two different Nodejs headless browsers.
+A simple comparison of two different Nodejs headless browsers. I compare speed and whether they are blocked going to someplace that sometimes blocks like Zillow.com.
 
 My determination? 
 
