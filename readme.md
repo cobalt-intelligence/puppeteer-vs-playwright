@@ -13,7 +13,7 @@ So Puppeteer is probably my recommendation because it is older and has more comm
 Cobalt Intelligence
 
 | Headless Browser | Speed |
-| --- | --- | --- |
+| --- | --- |
 | Puppeteer | 2.9249 ❌ |
 | Playwright | 2.34192833 ✅ |
 
@@ -21,6 +21,6 @@ Cobalt Intelligence
 Zillow
 
 | Headless Browser | Speed |
-| --- | --- | --- |
+| --- | --- |
 | Puppeteer | 4.186 ✅ |
 | Playwright | 5.1754 ❌ |
